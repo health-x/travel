@@ -12,6 +12,3 @@ tomcat7
 jdk11  
 端口号 8084  
 数据库 mysql  
-
-### 资料链接
-链接：https://pan.baidu.com/s/12gllKZ-6ErL931yWImIA0A 提取码：x3l6
